@@ -1,4 +1,5 @@
 module.exports = {
+  root: true,
   env: {
     browser: true,
     es6: true,
@@ -16,6 +17,6 @@ module.exports = {
     'no-empty': 'off',
     'consistent-return': 'off',
     'no-underscore-dangle': 'off',
-    'no-param-reassign': 'off'
+    'no-param-reassign': 'off',
   },
 };

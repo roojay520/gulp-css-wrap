@@ -56,5 +56,4 @@ const cssWrap = (string, options = {}, filePath = ' ') => {
   return cssStringify(css);
 };
 
-
 module.exports = cssWrap;
